@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KF\Documents\ARandro\AR\ARandro\libs\VuforiaUnityPlayer.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="240e5af6cbbcb24522c5f70695bee1c61a87bf11">
+        <dex dex="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaUnityPlayer_4f099db6bddefc1e833e30a32dd6716e2cb8b7c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b544ae34ad01d23a6ee536cb56caeaa7f42a68ce">
+        <dex dex="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5ca61efc5d2f2e9b6ad8a482fac1cb8ab77ef3bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="704809ee6e12b1bd97e69d10c03629f0d10fa9e4">
+        <dex dex="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e32f006a00c24f169eeb8f66f8cce2e10febbc6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KF\Documents\ARandro\AR\ARandro\libs\Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c273dd9fa2eed345a0a3f11e2c0f0db7e8cf2c8">
+        <dex dex="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_193969115dc86aaa70aaa65340620bdd63ab6d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KF\Documents\ARandro\AR\ARandro\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90edd05b777416e525a749e7974be784f1fd19a4">
+        <dex dex="C:\Users\KF\Documents\ARandro\AR\ARandro\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_0de5cd8f51a9e3db3bdf9c78f9e7f90719e4da8b\classes.dex" />
+    </item>
+
+</items>

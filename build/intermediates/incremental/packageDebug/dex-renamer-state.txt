@@ -1,0 +1,7 @@
+#Wed Jan 11 18:42:49 EET 2017
+base.0=C\:\\Users\\KF\\Documents\\ARandro\\AR\\ARandro\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e32f006a00c24f169eeb8f66f8cce2e10febbc6d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\KF\\Documents\\ARandro\\AR\\ARandro\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5ca61efc5d2f2e9b6ad8a482fac1cb8ab77ef3bc\\classes.dex
+base.1=C\:\\Users\\KF\\Documents\\ARandro\\AR\\ARandro\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5ca61efc5d2f2e9b6ad8a482fac1cb8ab77ef3bc
+file.0=C\:\\Users\\KF\\Documents\\ARandro\\AR\\ARandro\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e32f006a00c24f169eeb8f66f8cce2e10febbc6d\\classes.dex
